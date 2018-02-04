@@ -1,4 +1,4 @@
-# ViewPager---Swift
+# ViewPager.iOS
 An easy to use view pager library for Xamarin.iOS (ported from https://github.com/SeptiyanAndika/ViewPager---Swift)
 
 # Installation
